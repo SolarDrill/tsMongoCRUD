@@ -18,3 +18,5 @@
 + Express.js: a web application framework for Node.js.
 + TypeORM: an ORM that can run in Node.js.
 + TypeScript: a language for application-scale JavaScript development.
++ Mongoose: to allow the usage of Mongo as the DB
++ Dotenv: to allow the usage of environmental variables
